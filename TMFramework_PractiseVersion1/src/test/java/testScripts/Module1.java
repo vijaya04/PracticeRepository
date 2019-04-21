@@ -44,6 +44,12 @@ public class Module1 extends BaseClass
 		
 		driver.quit();
 	}
+	
+	@Test
+	public void Tc102()
+	{
+		System.out.println("Tc 102 Executed");
+	}
 
 
 }
